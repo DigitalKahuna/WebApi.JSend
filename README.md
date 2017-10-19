@@ -2,6 +2,7 @@ WebApi.JSend
 =======
 
 [![Build status](https://ci.appveyor.com/api/projects/status/oyd8ktawb0ur9ah0?svg=true)](https://ci.appveyor.com/project/sakopov/webapi-jsend)
+[![NuGet Pre Release](https://img.shields.io/nuget/vpre/WebApi.JSend.svg)](https://www.nuget.org/packages/WebApi.JSend)
 
 Simple implementation of JSON responses in JSend format for ASP.NET Web API.
 
